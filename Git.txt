@@ -1,3 +1,4 @@
 Inicio da aula de Git 
 continuação da aula de Git
 Retornamos do intervalo
+Estamos trabalhando no pc de casa
